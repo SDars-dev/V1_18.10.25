@@ -1,0 +1,12 @@
+{
+  "name": "V1_18.10.25",
+  "version": "1.0.0",
+  "description": "Simple static project structure for V1_18.10.25",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -c-1 .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "SDars-dev",
+  "license": "MIT"
+}
